@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/leeyb12">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=gradient&text=leeyb12%20Repository&reversal=true&fontColor=00FF00&fontAlign=50&fontAlignY=32&animation=scaleIn&desc=welcome!!"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=gradient&text=leeyb12%20Repository&reversal=true&fontColor=00FF00&fontAlign=50&fontAlignY=50&animation=scaleIn"/>
   </a>
 </p>
 
