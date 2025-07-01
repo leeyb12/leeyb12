@@ -1,55 +1,84 @@
-<div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nice%20to%20meet%20you%20%F0%9F%A4%97)
-  
-</div>
-<div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am from South Korea.<br/>
-  저는 자바 개발자 과정을 공부하고 있는 사람입니다.
-  <br/>
-  <br/>
-  
-  ## 🧱 Tech Stack
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  </p>
+<p align='center'>
+  <a href="https://github.com/leeyb12">
+    <img src[="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hugo's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=IoT%20CSharp,Java,Python%20Lecturer](https://capsule-render.vercel.app/api?type=rect&height=250&color=gradient&text=leeyb12%20Repository&reversal=true&fontColor=00FF00&fontAlign=50&fontAlignY=32&animation=scaleIn&desc=welcome!!)"/>
+  </a>
+</p>
 
-  ## 🌱 I've used
+## Profile
+- `Name` : Sung MyungGun (Hugo)
+- `Email` : personar95@naver.com
+- 🔭 I'm currently working as an **IoT instructor**
+  - Major : C#, Smart Factory, IoT Development
+  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+ 
+## GitHub Stat and Languages
+<!-- username은 본인걸로 -->
+<p align='center'>
+  <a href="https://github.com/hugoMGSung">
+    <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
+  </a>
+</p>
 
-  ## 🛠️ Tools
-  <br/>
+## Using Languages
+<p align='left'>
+    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
+    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
+    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
+    <img width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" title="Kotlin">
+    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+    <img height="40" src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" title="VisualBasic">
+    <img width="40" height="40" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo" title="Go">
+    <img height="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" title="Delphi">
+    <img height="40" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" title="PHP">
+    <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
+    <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="SQL Server">
+    <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
+</p>
+
+## Using Technics
+<p align='left'>
+  <img height="40" src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" title="WPF"> 
+  <img height="40" src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" title="SmartFactory">  
+  <img height="40" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" title="ASP.NET Core">  
+  <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
+  <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
+  <img height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
+  <img height="40" src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" title="ML/DL"> 
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
   
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyb12)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyb12)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+  <img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV">
+  <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
+  <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
+  <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
+  <!-- 
+  <img height="40" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" title="PyTorch">  
+  -->
+</p>
+
+## Using Tools
+<p align='left'>
+  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+  <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
+  <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains">
+  <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3" title="Android Studio">
+</p>
 
 <!--
-**Yunbeom-Lee/Yunbeom-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 기술명세
+| 기술분류 | 설명 |
+|:---:|:---:|
+|VSCode | VisualStudio Code 툴 사용법 습득|
+|Python | 빅데이터분석, 머신러닝, OpenCV|
 -->
+
+## Project List
+- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
+- [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
+- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
+- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
+- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
+- [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
