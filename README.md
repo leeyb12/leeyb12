@@ -39,6 +39,8 @@
 ## Using Tools
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+  <img height="40" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" title="Jupyter lab">
+    
 </p>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=leeyb12&utm_content=farm">
