@@ -44,7 +44,7 @@
 </p>
 
 ## Project List
-- [Website] <a href="http://bjava.iptime.org:8887">포트폴리오 사이트</a>
+- [Website] <a href="https://leeyb12.github.io/portfolio">포트폴리오 사이트</a>
 - [Website] <a href="https://github.com/tour-site">부산 여행 추천 정보 사이트</a>
 - [HTML] <a href="https://leeyb12.github.io/lyb_html">개발 예제 정리</a>
 - [HTML] <a href="https://leeyb12.github.io/Game_project"> 미니 게임 페이지</a> (현재 진행중임)
