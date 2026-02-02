@@ -14,7 +14,6 @@
 <p align='center'>
   <a href="https://github.com/leeyb12">
     <img src="https://github-readme-stats.vercel.app/api?username=leeyb12&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyb12&theme=tokyonight&layout=compact"/>
   </a>
 </p>
 
