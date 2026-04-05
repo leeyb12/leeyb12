@@ -12,7 +12,6 @@
   Spring Boot · React · Database · Problem Solving
 </p>
 
-[![Solved.ac Profile](http://mazassumida.wtf/api/v2/generate_badge?boj=dbsqja1233)](https://solved.ac/dbsqja1233/)
 ---
 
 ## 👤 About Me
