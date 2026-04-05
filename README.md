@@ -12,6 +12,7 @@
   Spring Boot · React · Database · Problem Solving
 </p>
 
+[![Solved.ac Profile](http://mazassumida.wtf/api/v2/generate_badge?boj=leeyb12)](https://solved.ac/leeyb12/)
 ---
 
 ## 👤 About Me
