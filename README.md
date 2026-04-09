@@ -75,9 +75,6 @@
 - 📘 **HTML / JS 개발 예제 정리**  
   👉 https://leeyb12.github.io/lyb_html
 
-- 🎮 **미니 게임 프로젝트 (진행 중)**  
-  👉 https://leeyb12.github.io/Game_project
-
 - ☕ **Spring Boot 학습 & 실습 프로젝트**  
   👉 https://github.com/leeyb12/java-springboot-2025
 
