@@ -33,11 +33,6 @@
 
 ---
 
-## 🌱 My Contribution 3D Graph
-![](./profile-3d-contrib/profile-green-animate.svg)
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
