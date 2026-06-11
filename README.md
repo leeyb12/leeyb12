@@ -33,6 +33,11 @@
 
 ---
 
+## 🌱 My Contribution 3D Graph
+![GitHub 3D Contribution](https://github-profile-3d-contrib.vercel.app/api?username=leeyb12&theme=github_dark)
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
