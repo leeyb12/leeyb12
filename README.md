@@ -34,7 +34,7 @@
 ---
 
 ## 🌱 My Contribution 3D Graph
-<img width="100%" alt="snake" src="https://raw.githubusercontent.com/leeyb12/leeyb12/main/profile-3d-contrib/profile-green-animate.svg">
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
