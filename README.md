@@ -60,7 +60,6 @@
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/jupyter.png" title="Jupyter"/>
 </p>
 
 ---
