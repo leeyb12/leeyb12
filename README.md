@@ -83,7 +83,7 @@
 - 🤝 **커뮤니티 + 거래결합형 프로젝트** <br>
   👉 https://github.com/BuildEnough/java-miniproject-2026
 
-- 👔 **AI 면접 시뮬레이션 프로젝트** - 아직 진행중임 <br>
+- 👔 **AI 면접 시뮬레이션 프로젝트 - 아직 진행중임** <br>
   👉 https://github.com/leeyb12/java-project02
 
 - 📈 **주식 모니터링 프로젝트** <br>
