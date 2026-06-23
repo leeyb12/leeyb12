@@ -40,6 +40,7 @@
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  <img src="https://img.icon8.com/color/48/cs.png" title="cs"/>
 </p>
 
 ### 🧩 Backend & Database
@@ -60,6 +61,7 @@
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/eclipse.png" title="Eclipse"/>
 </p>
 
 ---
