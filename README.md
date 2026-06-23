@@ -48,7 +48,7 @@
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/839d2967-0cf3-47ee-96a1-bae09d361fcc" />
+  [<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/839d2967-0cf3-47ee-96a1-bae09d361fcc" />](https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000)
 
 </p>
 
