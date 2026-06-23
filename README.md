@@ -46,7 +46,8 @@
 <p>
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL / MariaDB"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/mariadb-logo.png" title="MariaDB" />
 </p>
 
 ### 🎨 Frontend
