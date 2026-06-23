@@ -64,7 +64,6 @@
   <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
   <img src="https://img.icons8.com/color/48/eclipse.png" title="Eclipse"/>
   <img src="https://github.com/user-attachments/assets/39b67825-4cdb-4c67-a09c-05ea4e7a7aa4" title="Jupyter Notebook" width="48" height="48"/>
-"
 </p>
 
 ---
