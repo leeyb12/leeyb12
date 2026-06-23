@@ -48,6 +48,8 @@
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/839d2967-0cf3-47ee-96a1-bae09d361fcc" />
+
 </p>
 
 ### 🎨 Frontend
@@ -62,6 +64,8 @@
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
   <img src="https://img.icons8.com/color/48/eclipse.png" title="Eclipse"/>
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/80c122af-7d14-498f-b97a-f369ed69e5a6" />
+"
 </p>
 
 ---
