@@ -40,14 +40,15 @@
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
-  <img src="https://img.icon8.com/color/48/CS.png" title="CS"/>
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" title="C#"/>
 </p>
 
 ### 🧩 Backend & Database
 <p>
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mariadb.png" title="MariaDB"/>
 </p>
 
 ### 🎨 Frontend
@@ -61,8 +62,8 @@
 <p>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/Eclipse-Dark.png" title="Eclipse"/>
-</p>
+  <img src="https://img.icons8.com/color/48/eclipse.png" title="Eclipse"/>
+  <img src="https://img.icons8.com/color/48/jupyter.png" title="Jupyter Notebook"/>
 
 ---
 
