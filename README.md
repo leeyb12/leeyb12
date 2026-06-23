@@ -48,8 +48,7 @@
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  <img src="https://github.com/user-attachments/assets/48/839d2967-0cf3-47ee-96a1-bae09d361fcc" title="MariaDB" />
-
+  <img src="https://github.com/user-attachments/assets/839d2967-0cf3-47ee-96a1-bae09d361fcc" title="MariaDB" width="48" height="48"/>
 </p>
 
 ### 🎨 Frontend
@@ -64,7 +63,7 @@
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
   <img src="https://img.icons8.com/color/48/eclipse.png" title="Eclipse"/>
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/80c122af-7d14-498f-b97a-f369ed69e5a6" />
+  <img src="https://github.com/user-attachments/assets/39b67825-4cdb-4c67-a09c-05ea4e7a7aa4" title="Jupyter Notebook" width="48" height="48"/>
 "
 </p>
 
