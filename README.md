@@ -48,7 +48,7 @@
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  <img src="https://github.com/user-attachments/assets/839d2967-0cf3-47ee-96a1-bae09d361fcc" title="MariaDB" />
+  <img src="https://github.com/user-attachments/assets/48/839d2967-0cf3-47ee-96a1-bae09d361fcc" title="MariaDB" />
 
 </p>
 
