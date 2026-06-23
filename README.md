@@ -77,13 +77,16 @@
 - ☕ **Spring Boot 학습 & 실습 프로젝트**  
   👉 https://github.com/leeyb12/java-springboot-2025
 
-- 🤝 **커뮤니티 + 거래결합형 프로젝트**
+- 📘 **HTML / JS 개발 예제 정리 2** <br>
+  https://github.com/leeyb12/pkdata26    
+
+- 🤝 **커뮤니티 + 거래결합형 프로젝트** <br>
   👉 https://github.com/BuildEnough/java-miniproject-2026
 
-- 👔 **AI 면접 시뮬레이션 프로젝트**
+- 👔 **AI 면접 시뮬레이션 프로젝트** <br>
   👉 https://github.com/leeyb12/java-project02
 
-- 📈 **주식 모니터링 프로젝트**
+- 📈 **주식 모니터링 프로젝트** <br>
   👉 https://github.com/JHJH1289/stock_viewer
 
 ---
